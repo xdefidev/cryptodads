@@ -1,0 +1,51 @@
+{
+  "dna": "7eccb44a1c72d67a4024d37aba4bd3e5d24df0f4",
+  "name": "#1",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://QmNfPMWLPTEbFpBtPFy4wkYEHRVWcz8dzjziTcPbebzF53/1.png",
+  "edition": 1,
+  "date": 1632694657108,
+  "attributes": [
+    {
+      "trait_type": "ackground",
+      "value": "Goldfish-Yellow"
+    },
+    {
+      "trait_type": "Allegiance",
+      "value": "United-Kingdom"
+    },
+    {
+      "trait_type": "Attachments",
+      "value": "Thermal-Optics"
+    },
+    {
+      "trait_type": "Gun Camo",
+      "value": "Operational"
+    },
+    {
+      "trait_type": "Killstreaks",
+      "value": "Nuke"
+    },
+    {
+      "trait_type": "Player Camo",
+      "value": "CADPAT"
+    },
+    {
+      "trait_type": "Primary Weapons",
+      "value": "M4-Carbine"
+    },
+    {
+      "trait_type": "Secondary Weapons",
+      "value": "RPG-7"
+    },
+    {
+      "trait_type": "Soldiers",
+      "value": "Soldier"
+    },
+    {
+      "trait_type": "Tactical Grenades",
+      "value": "Frag-Grenade"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

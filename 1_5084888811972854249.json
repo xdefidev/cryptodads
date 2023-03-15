@@ -1,0 +1,512 @@
+[
+  {
+    "dna": "065bca2e0599f0a2288d0ec8a8f1bd9a0f88dd47",
+    "name": "#1",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "edition": 1,
+    "date": 1632696094474,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Blue-Tiger"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "China"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Grip"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Dark-Earth"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Sam-Turret"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "MultiCam"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "AK-47"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "C4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0258babb12731d16cd7ecc3bd63631be3e0e1560",
+    "name": "#2",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "edition": 2,
+    "date": 1632696094933,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Digital-Purple"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "United-Kingdom"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Grip"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Carbon-Fiber"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Care-Package"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "Tigerstripe"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "SIG-MCX"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Frag-Grenade"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "1c8bae26bd8de3230301768db00250339b050d7b",
+    "name": "#3",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "edition": 3,
+    "date": 1632696095374,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Taco-Salad"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "South-Korea"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Extended-Magazine"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Mortar-Team"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "MultiCam"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "FN-SCAR-17"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "3.357-Revolver"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Molotov-Cocktail"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "67fa4ffacc34c32fc0db8d721a56dbafdc174949",
+    "name": "#4",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "edition": 4,
+    "date": 1632696095822,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Digital-Purple"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Japan"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Thermal-Optics"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Black-Out"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Mortar-Team"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "MultiCam"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "MP5"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Frag-Grenade"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "063a0939acc1ae8fc735773881d613a916d713b2",
+    "name": "#5",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "edition": 5,
+    "date": 1632696096259,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Party"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "United-Kingdom"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Grip"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Snow-Trooper"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Air-Strike"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "M81-Woodland"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "FAL"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "Grenade-Launcher"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "C4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d1f5f5d9311760148e5c1e8d949ae1d824efb2df",
+    "name": "#6",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "edition": 6,
+    "date": 1632696096686,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Goldfish-Yellow"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Germany"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Thermal-Optics"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Drone-Strike"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "Tigerstripe"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "AK-47"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "3.357-Revolver"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Frag-Grenade"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fb5750588b140580d5b6cb8c5d6cc23e6eb0cf86",
+    "name": "#7",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "edition": 7,
+    "date": 1632696097150,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Party"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "United-States"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Laser-Sights"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Dark-Earth"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Mortar-Team"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "Tigerstripe"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "AK-47"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Molotov-Cocktail"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "5d5149a4fea9fceb5c6e5580f669ca73501ebce2",
+    "name": "#8",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "edition": 8,
+    "date": 1632696097583,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Digital-Purple"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Russia"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Extended-Magazine"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Tiger-Stripe"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Mortar-Team"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "CADPAT"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "FAL"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Molotov-Cocktail"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3e243329be90b5568b7112e3dd7eda19f3566665",
+    "name": "#9",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "edition": 9,
+    "date": 1632696098071,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "OG-Tiger"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Russia"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Suppressor"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Diamond"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Care-Package"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "MultiCam"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "M4-Carbine"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "RPG-7"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Bouncing-Betty"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "36989d79217fdcb49ce2e35f7f3c77a2d2d1fba8",
+    "name": "#10",
+    "description": "This is the description of your NFT project, remember to replace this",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "edition": 10,
+    "date": 1632696098522,
+    "attributes": [
+      {
+        "trait_type": "ackground",
+        "value": "Blue-Tiger"
+      },
+      {
+        "trait_type": "Allegiance",
+        "value": "Russia"
+      },
+      {
+        "trait_type": "Attachments",
+        "value": "Thermal-Optics"
+      },
+      {
+        "trait_type": "Gun Camo",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Killstreaks",
+        "value": "Sentry-Gun"
+      },
+      {
+        "trait_type": "Player Camo",
+        "value": "M81-Woodland"
+      },
+      {
+        "trait_type": "Primary Weapons",
+        "value": "FN-P90"
+      },
+      {
+        "trait_type": "Secondary Weapons",
+        "value": "50-Desert-Eagle"
+      },
+      {
+        "trait_type": "Soldiers",
+        "value": "Soldier"
+      },
+      {
+        "trait_type": "Tactical Grenades",
+        "value": "Bouncing-Betty"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
